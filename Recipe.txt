@@ -5,6 +5,8 @@ oil
 
 Beans
 pizza
+rice
+spice
 
 thank you.}
 done
