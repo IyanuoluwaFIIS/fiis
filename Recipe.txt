@@ -3,4 +3,7 @@ chicken
 pasta
 oil
 
+Beans
+pizza
+
 thank you.}
